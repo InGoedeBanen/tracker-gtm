@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "IGB Tracker",
+  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
