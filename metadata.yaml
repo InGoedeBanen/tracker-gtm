@@ -1,0 +1,5 @@
+homepage: "https://www.igb.jobs/"
+documentation: "https://github.com/InGoedeBanen/tracker-gtm"
+versions:
+  - sha: 27d37eac548ac3e29af50869f5c06ce1257adc42
+    changeNotes: Initial release.
