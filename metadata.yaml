@@ -1,5 +1,7 @@
 homepage: "https://www.igb.jobs/"
 documentation: "https://github.com/InGoedeBanen/tracker-gtm"
 versions:
+  - sha: e57a52152a8942750fee2c49ba4e8029990f9829
+    changeNotes: Rebrand documentation from IGB to VONQ
   - sha: 27d37eac548ac3e29af50869f5c06ce1257adc42
     changeNotes: Initial release.
