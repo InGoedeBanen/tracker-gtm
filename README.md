@@ -1,7 +1,7 @@
-IGB TRACKING SCRIPTS
-====================
+VONQ Job Post TRACKING SCRIPTS
+==============================
 
-The IGB Tracker can be used with GTM. To do this, you need to select the IGB Tracker template in the Community Template Gallery <Link toevoegen> and add it to your workspace.
+The VONQ Job Post Tracker can be used with GTM. To do this, you need to select the VONQ Job Post Tracker template in the [Community Template Gallery](https://tagmanager.google.com/gallery/#/owners/InGoedeBanen/templates/tracker-gtm) and add it to your workspace.
 
 Once added, you can configure the template, which has the following options:
 
@@ -21,4 +21,4 @@ If your URL looks like this: http://domain.com/vacancy/apply/thankyou?vacancyID=
 
 When you have a URL like http://domain.com/vacancy/apply/12345-interesting-job-title.html you need to choose _Page path_, and enter a relevant Regular Expression. For the example URL the regular expression should be `/apply\/(\d+)-/`.
 
-To use the IGB Tracker template correctly, you need to create at least two triggers in GTM, one which starts the tracker and one which stops the tracker when an application is finished.
+To use the VONQ Job Post Tracker template correctly, you need to create at least two triggers in GTM, one which starts the tracker and one which stops the tracker when an application is finished.
